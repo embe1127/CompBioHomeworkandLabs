@@ -1,0 +1,1 @@
+This GitHub Repository is my experience taking computational biology as the course happens. This is my space to learn, unlearn, and experiment with coding, git, GitHub, and R. We'll see how this goes!
