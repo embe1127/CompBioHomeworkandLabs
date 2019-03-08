@@ -2,7 +2,7 @@
 # Script Used for Lab08
 ## Documentation & Metadata
 ### Part 1: Write a function for the logarithmic growth model
-1. Retrieve code for the logarithmic growth equation, which contains:
+1. Retrieve code for the logarithmic growth equation [from lab 04][LAB04] , which contains:
 	* parameters
 		* intrinsic rate
 		* carrying capacity
@@ -22,4 +22,8 @@
 	* FOURTH, include a **plot** function such that a plot of population abundance and time
 	* FIFTH, return a **cbind** function that outputs two columns as long as there are generations
 3.  This function is used and the data from it is saved in a CSV file in the corresponding lab folder (Lab08).
+
+
+[LAB04]: https://github.com/embe1127/CompBioHomeworkandLabs/tree/master/Labs/Lab04
+
 
