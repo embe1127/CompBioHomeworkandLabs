@@ -16,7 +16,7 @@ TimsSeq <- seq(1:8)
 
 #calculations
 for(i in TimsSeq) {
-  print(TimsInitial + (TimsAllowance * i) - TimsExpenditures)
+  print(TimsInitial + (TimsAllowance * i) - (TimsExpenditures * i))
 }
 
 #STEP 3: Write a loop that calculates the population size of a specific population for the next seven years. 
