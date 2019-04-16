@@ -41,3 +41,12 @@ CorrectedDates
 BestDateTime <- NewDateTime[CorrectedDates]
 #This does not work
 
+
+
+
+#In class working with lubridate
+
+#One function to correct all dates
+datesAndTime <- parse_date_time( camData$DateTime, orders = c("dmYHM", "dmyHM") )
+datesAndTime
+#this worked
