@@ -16,6 +16,7 @@ In addition to their hunting abilities, hyenas are also highly intelligent-- stu
 ### Source Data
 This analysis utilized [data](https://datadryad.org/resource/doi:10.5061/dryad.78kn3) from Cozzi et al. (2015), which consisted of camera trap data, hyena locational data, and locational data for elephant carcasses (both natural and shot). The camera trap data was compiled via Cuddeback camera traps set up at five of the elephant carcasses. A sample photograph is shown in Fig 1. 
 
+![enter image description here](https://lh3.googleusercontent.com/RwcVudgaxFo0xXepLkgw9zZ5xU6v7_FJOYt0gItGmjBxB3mPMjjjrC8zTPW65QM2j1T4MscESVg "Fig 1.")
 ![Hyenas gathered around an elephant carcass at night.](https://picasaweb.google.com/110232003716498184469/6687023313467056561#6687023312631279570 "Fig 1 ")
 
 Location data for 15 hyenas was available via GPS collar coordinates, and location data for elephant carcasses was based off of word of mouth from professional hunters.
@@ -36,20 +37,19 @@ I found that within the larger hyena data frame, there were 15 unique entries fo
 
 When the individuals' carcass visits were all graphed together, there was certainly evidence of variability (Fig 2).
 
-![A bar graph of all of the collared individuals' carcass zone tallies demonstrates variation among the individuals. Some, like Nike and Fly, had nearly two average visits, whereas other individuals, like Ale or Athena, did not have any tallies for being in the carcass zone. ](https://picasaweb.google.com/110232003716498184469/6687034129119545441#6687034130923583938 "Fig 2") 
+![A bar graph of all the collared individuals' carcass zone tallies demonstrates variation among the individuals. Some, like Nike and Fly, had nearly two average visits, whereas other individuals, like Ale or Athena, did not have any tallies for being in the carcass zone. ](https://lh3.googleusercontent.com/gto33uhywV9XgNnfCR_Nzgj9ft_UvPGjNqYHOEclwv_ufvX2fFr49_qotX_AVacZx8fboY27ntg "Fig 2.")
 
 There are clearly three individuals that stand out in terms of time spent in the carcass zone, and standard error bars indicate that there may be a statistically significant difference between some individuals: for example, it is highly probable that Fly's average number of times in the zone is significantly different than that of nearly all of the other individuals aside from Apollo or Nike. This is also evident in Fig 3.  It could also be the case that more collared individuals were at the carcasses, or in the carcass zones, than were documented in the GPS data, due to the timing of GPS location recordings. 
 
 ![A pie chart depicting how often hyenas were in the carcass zone. Only hyenas with above zero values are shown here. ](https://lh3.googleusercontent.com/cohChWaLp7NRUgPdfy-kVFraAAJvBMyE3e_-CghtSEzZRXS0p8GQu5Uie1_jEi32LkMLOGyk0VA "Fig 3.")
 
 When I looked at the difference between sexes in average number of times a hyena was in the carcass zone, there is evidence for a significant difference between male and female, with males (potentially) visiting the carcasses significantly more often than females (Fig 3). This is interesting because I would have expected the more socially dominant females would have increased innovative problem solving skills and cooperative abilities in order to lead packs that might have allowed them to quickly capitalize on a rich and ready food source.  One possible explanation is that mis-sexing individuals has heavily skewed my data; or, it is possible that females were not collared as often as males; or, maybe if females are already strong hunters, there is no need to take advantage of "free" food. 
+![Females had a tally of less than .2 average locations in the carcass zone, while males were over double that at an average of .4 times in the carcass zone. Standard error bars indicate strong potential for statistical significance. ](https://lh3.googleusercontent.com/UAOscxmii2w4_TMAabNgDgdBbu7PcM7PYK6H4tkP7IMz4iY0sq2mYbA9X8wOrzci1AIGjtCTPt4 "Fig 4.")
 
-![Females had a tally of less than .2 average locations in the carcass zone, while males were over double that at an average of .4 times in the carcass zone. Standard error bars indicate strong potential for statistical significance.](https://picasaweb.google.com/110232003716498184469/6687036458189389969#6687036463321825442 "Fig 4") 
 
 There was also variation in which carcasses were visited, although it seems to offer less support for statistical significance than previous graphs (Fig 5). It is possible that if these carcasses did not fall within the territories of the hyenas collared, then there may not be any documented visits.
 
-![Variation in hyena presence within the carcass zone by carcass.](https://picasaweb.google.com/110232003716498184469/6687038983382532049#6687038982626649266 "Fig 5")
-
+![Variation in hyena presence within the carcass zone by carcass.](https://lh3.googleusercontent.com/d_pSE_KxpZRuktitCF92YUnylVbrr1LlW6x3TYFnxbeT7CmVra2Oa_BxR3fjnEH-xi2qlpDwIGQ "Fig 5.")
 
 In conclusion, I was able to determine that there was a probably significant level of variation in carcass visits among hyena individuals, which could possibly relate to differing personalities, or may just be a case of an animal being in the right place at the right time to utilize unpredictable anthropogenic carcasses. I also found that males were in the carcass zone more often than females, and three individuals-- Nike, Apollo, and Fly-- had the highest number of average carcass visits.  Lastly, although it is arbitrary because there isn't any real significance associated with carcass ID, the most visited carcass was carcass 19. 
 
